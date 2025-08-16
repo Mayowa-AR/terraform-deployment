@@ -1,3 +1,3 @@
 variable "aws_region" {
-  default = "eu-west-2"
+  default = "us-west-2"
 }
